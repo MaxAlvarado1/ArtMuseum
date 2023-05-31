@@ -1,0 +1,932 @@
+C:\GitMuseum\WebApplication1\bin\WebApplication1.dll.config
+C:\GitMuseum\WebApplication1\bin\WebApplication1.dll
+C:\GitMuseum\WebApplication1\bin\WebApplication1.pdb
+C:\GitMuseum\WebApplication1\bin\roslyn\csc.exe
+C:\GitMuseum\WebApplication1\bin\roslyn\csc.exe.config
+C:\GitMuseum\WebApplication1\bin\roslyn\csc.rsp
+C:\GitMuseum\WebApplication1\bin\roslyn\csi.exe
+C:\GitMuseum\WebApplication1\bin\roslyn\csi.exe.config
+C:\GitMuseum\WebApplication1\bin\roslyn\csi.rsp
+C:\GitMuseum\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GitMuseum\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\GitMuseum\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GitMuseum\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.Console.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\GitMuseum\WebApplication1\bin\roslyn\vbc.exe
+C:\GitMuseum\WebApplication1\bin\roslyn\vbc.exe.config
+C:\GitMuseum\WebApplication1\bin\roslyn\vbc.rsp
+C:\GitMuseum\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\GitMuseum\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\GitMuseum\WebApplication1\bin\Antlr3.Runtime.dll
+C:\GitMuseum\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\GitMuseum\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\GitMuseum\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\GitMuseum\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\GitMuseum\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GitMuseum\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\GitMuseum\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\GitMuseum\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\GitMuseum\WebApplication1\bin\Newtonsoft.Json.dll
+C:\GitMuseum\WebApplication1\bin\System.Web.Optimization.dll
+C:\GitMuseum\WebApplication1\bin\WebGrease.dll
+C:\GitMuseum\WebApplication1\bin\System.Web.Optimization.xml
+C:\GitMuseum\WebApplication1\bin\Newtonsoft.Json.xml
+C:\GitMuseum\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\GitMuseum\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\GitMuseum\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GitMuseum\WebApplication1\obj\Release\WebApplication1.csproj.AssemblyReference.cache
+C:\GitMuseum\WebApplication1\obj\Release\WebApplication1.csproj.CoreCompileInputs.cache
+C:\GitMuseum\WebApplication1\obj\Release\WebApplication1.csproj.CopyComplete
+C:\GitMuseum\WebApplication1\obj\Release\WebApplication1.dll
+C:\GitMuseum\WebApplication1\obj\Release\WebApplication1.pdb
+C:\TRIAL\museum-database\WebApplication1\bin\WebApplication1.dll.config
+C:\TRIAL\museum-database\WebApplication1\bin\WebApplication1.dll
+C:\TRIAL\museum-database\WebApplication1\bin\WebApplication1.pdb
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\csc.exe
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\csc.exe.config
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\csc.rsp
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\csi.exe
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\csi.exe.config
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\csi.rsp
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.Console.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\vbc.exe
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\vbc.exe.config
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\vbc.rsp
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\TRIAL\museum-database\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\TRIAL\museum-database\WebApplication1\bin\Antlr3.Runtime.dll
+C:\TRIAL\museum-database\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\TRIAL\museum-database\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\TRIAL\museum-database\WebApplication1\bin\Newtonsoft.Json.dll
+C:\TRIAL\museum-database\WebApplication1\bin\System.Web.Optimization.dll
+C:\TRIAL\museum-database\WebApplication1\bin\WebGrease.dll
+C:\TRIAL\museum-database\WebApplication1\bin\System.Web.Optimization.xml
+C:\TRIAL\museum-database\WebApplication1\bin\Newtonsoft.Json.xml
+C:\TRIAL\museum-database\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TRIAL\museum-database\WebApplication1\obj\Release\WebApplication1.csproj.AssemblyReference.cache
+C:\TRIAL\museum-database\WebApplication1\obj\Release\WebApplication1.csproj.CoreCompileInputs.cache
+C:\TRIAL\museum-database\WebApplication1\obj\Release\WebApplication1.csproj.CopyComplete
+C:\TRIAL\museum-database\WebApplication1\obj\Release\WebApplication1.dll
+C:\TRIAL\museum-database\WebApplication1\obj\Release\WebApplication1.pdb
+C:\TRIAL\museum-database\WebApplication1\bin\Azure.Core.dll
+C:\TRIAL\museum-database\WebApplication1\bin\Azure.Identity.dll
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.Data.SqlClient.dll
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.Identity.Client.dll
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.IdentityModel.Logging.dll
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.IdentityModel.Protocols.dll
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.IdentityModel.Tokens.dll
+C:\TRIAL\museum-database\WebApplication1\bin\System.Buffers.dll
+C:\TRIAL\museum-database\WebApplication1\bin\System.Configuration.ConfigurationManager.dll
+C:\TRIAL\museum-database\WebApplication1\bin\System.Data.SqlClient.dll
+C:\TRIAL\museum-database\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+C:\TRIAL\museum-database\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\TRIAL\museum-database\WebApplication1\bin\System.Memory.Data.dll
+C:\TRIAL\museum-database\WebApplication1\bin\System.Memory.dll
+C:\TRIAL\museum-database\WebApplication1\bin\System.Numerics.Vectors.dll
+C:\TRIAL\museum-database\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\TRIAL\museum-database\WebApplication1\bin\System.Security.AccessControl.dll
+C:\TRIAL\museum-database\WebApplication1\bin\System.Security.Cryptography.ProtectedData.dll
+C:\TRIAL\museum-database\WebApplication1\bin\System.Security.Permissions.dll
+C:\TRIAL\museum-database\WebApplication1\bin\System.Security.Principal.Windows.dll
+C:\TRIAL\museum-database\WebApplication1\bin\System.Text.Encodings.Web.dll
+C:\TRIAL\museum-database\WebApplication1\bin\System.Text.Json.dll
+C:\TRIAL\museum-database\WebApplication1\bin\System.Threading.Tasks.Extensions.dll
+C:\TRIAL\museum-database\WebApplication1\bin\System.ValueTuple.dll
+C:\TRIAL\museum-database\WebApplication1\bin\Azure.Core.xml
+C:\TRIAL\museum-database\WebApplication1\bin\Azure.Identity.xml
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.Data.SqlClient.pdb
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.Data.SqlClient.xml
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.Identity.Client.xml
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.IdentityModel.Logging.xml
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.IdentityModel.Protocols.xml
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\TRIAL\museum-database\WebApplication1\bin\Microsoft.IdentityModel.Tokens.xml
+C:\TRIAL\museum-database\WebApplication1\bin\System.Buffers.xml
+C:\TRIAL\museum-database\WebApplication1\bin\System.Configuration.ConfigurationManager.xml
+C:\TRIAL\museum-database\WebApplication1\bin\System.Data.SqlClient.xml
+C:\TRIAL\museum-database\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+C:\TRIAL\museum-database\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\TRIAL\museum-database\WebApplication1\bin\System.Memory.xml
+C:\TRIAL\museum-database\WebApplication1\bin\System.Memory.Data.xml
+C:\TRIAL\museum-database\WebApplication1\bin\System.Numerics.Vectors.xml
+C:\TRIAL\museum-database\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\TRIAL\museum-database\WebApplication1\bin\System.Security.AccessControl.xml
+C:\TRIAL\museum-database\WebApplication1\bin\System.Security.Cryptography.ProtectedData.xml
+C:\TRIAL\museum-database\WebApplication1\bin\System.Security.Permissions.xml
+C:\TRIAL\museum-database\WebApplication1\bin\System.Security.Principal.Windows.xml
+C:\TRIAL\museum-database\WebApplication1\bin\System.Text.Encodings.Web.xml
+C:\TRIAL\museum-database\WebApplication1\bin\System.Text.Json.xml
+C:\TRIAL\museum-database\WebApplication1\bin\System.Threading.Tasks.Extensions.xml
+C:\TRIAL\museum-database\WebApplication1\bin\System.ValueTuple.xml
+C:\TRIAL\museum-database\WebApplication1\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\TRIAL\museum-database\WebApplication1\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\TRIAL\museum-database\WebApplication1\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\TRIAL\museum-database\WebApplication1\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\TRIAL\museum-database\WebApplication1\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\TRIAL\museum-database\WebApplication1\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\TRIAL\museum-database\WebApplication1\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\TRIAL\museum-database\WebApplication1\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\TRIAL\museum-database\WebApplication1\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\TRIAL\museum-database\WebApplication1\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\WebApplication1.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\WebApplication1.pdb
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\csc.exe
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\csi.exe
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Azure.Core.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Azure.Identity.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.Data.SqlClient.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.Identity.Client.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Buffers.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Data.SqlClient.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Memory.Data.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Memory.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Numerics.Vectors.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Security.AccessControl.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Security.Permissions.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Security.Principal.Windows.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Text.Encodings.Web.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Text.Json.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.ValueTuple.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\WebGrease.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Azure.Core.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Azure.Identity.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.Data.SqlClient.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.Identity.Client.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Buffers.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Data.SqlClient.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Memory.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Memory.Data.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Numerics.Vectors.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Security.AccessControl.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Security.Cryptography.ProtectedData.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Security.Permissions.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Security.Principal.Windows.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Text.Encodings.Web.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Text.Json.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.ValueTuple.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\obj\Release\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\obj\Release\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\obj\Release\WebApplication1.csproj.CopyComplete
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\obj\Release\WebApplication1.dll
+C:\Users\desmo\OneDrive\Documents\GitHub\Museum8repo\WebApplication1\obj\Release\WebApplication1.pdb
+C:\TRIAL\Museum8repo\WebApplication1\obj\Release\WebApplication1.csproj.AssemblyReference.cache
+C:\TRIAL\Museum8repo\WebApplication1\obj\Release\WebApplication1.csproj.CoreCompileInputs.cache
+C:\TRIAL\Museum8repo\WebApplication1\obj\Release\WebApplication1.dll
+C:\TRIAL\Museum8repo\WebApplication1\obj\Release\WebApplication1.pdb
+C:\TRIAL\Museum8repo\WebApplication1\bin\WebApplication1.dll.config
+C:\TRIAL\Museum8repo\WebApplication1\bin\WebApplication1.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\WebApplication1.pdb
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\csc.exe
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\csc.exe.config
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\csc.rsp
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\csi.exe
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\csi.exe.config
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\csi.rsp
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.Console.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\vbc.exe
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\vbc.exe.config
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\vbc.rsp
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\TRIAL\Museum8repo\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\TRIAL\Museum8repo\WebApplication1\bin\Antlr3.Runtime.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\Azure.Core.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\Azure.Identity.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.Data.SqlClient.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.Identity.Client.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.Logging.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.Protocols.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.Tokens.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\Newtonsoft.Json.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Buffers.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Configuration.ConfigurationManager.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Data.SqlClient.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Memory.Data.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Memory.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Numerics.Vectors.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Security.AccessControl.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Security.Cryptography.ProtectedData.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Security.Permissions.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Security.Principal.Windows.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Text.Encodings.Web.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Text.Json.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Threading.Tasks.Extensions.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.ValueTuple.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Web.Optimization.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\WebGrease.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\Azure.Core.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\Azure.Identity.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.Data.SqlClient.pdb
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.Data.SqlClient.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.Identity.Client.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.Logging.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.Protocols.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.IdentityModel.Tokens.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Buffers.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Configuration.ConfigurationManager.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Data.SqlClient.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Memory.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Memory.Data.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Numerics.Vectors.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Security.AccessControl.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Security.Cryptography.ProtectedData.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Security.Permissions.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Security.Principal.Windows.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Text.Encodings.Web.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Text.Json.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Threading.Tasks.Extensions.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.ValueTuple.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\System.Web.Optimization.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\Newtonsoft.Json.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TRIAL\Museum8repo\WebApplication1\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\TRIAL\Museum8repo\WebApplication1\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\TRIAL\Museum8repo\WebApplication1\obj\Release\WebApplication1.csproj.CopyComplete
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\WebApplication1.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\WebApplication1.pdb
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\csc.exe
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\csi.exe
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Azure.Core.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Azure.Identity.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.Data.SqlClient.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.Identity.Client.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Buffers.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Data.SqlClient.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Memory.Data.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Memory.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Numerics.Vectors.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Security.AccessControl.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Security.Permissions.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Security.Principal.Windows.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Text.Encodings.Web.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Text.Json.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.ValueTuple.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\WebGrease.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Azure.Core.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Azure.Identity.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.Data.SqlClient.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.Identity.Client.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Buffers.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Data.SqlClient.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Memory.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Memory.Data.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Numerics.Vectors.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Security.AccessControl.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Security.Cryptography.ProtectedData.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Security.Permissions.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Security.Principal.Windows.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Text.Encodings.Web.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Text.Json.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.ValueTuple.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\obj\Release\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\obj\Release\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\obj\Release\WebApplication1.csproj.CopyComplete
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\obj\Release\WebApplication1.dll
+C:\Users\maxim\Desktop\Museum Database\WebApplication1\obj\Release\WebApplication1.pdb
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\WebApplication1.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\WebApplication1.pdb
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\csc.exe
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\csi.exe
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Azure.Core.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Azure.Identity.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.Data.SqlClient.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.Identity.Client.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Buffers.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Data.SqlClient.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Memory.Data.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Memory.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Numerics.Vectors.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Security.AccessControl.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Security.Permissions.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Security.Principal.Windows.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Text.Encodings.Web.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Text.Json.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.ValueTuple.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\WebGrease.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Azure.Core.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Azure.Identity.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.Data.SqlClient.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.Identity.Client.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Buffers.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Data.SqlClient.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Memory.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Memory.Data.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Numerics.Vectors.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Security.AccessControl.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Security.Cryptography.ProtectedData.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Security.Permissions.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Security.Principal.Windows.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Text.Encodings.Web.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Text.Json.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.ValueTuple.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\obj\Release\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\maxim\Desktop\Database\WebApplication1\obj\Release\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Desktop\Database\WebApplication1\obj\Release\WebApplication1.csproj.CopyComplete
+C:\Users\maxim\Desktop\Database\WebApplication1\obj\Release\WebApplication1.dll
+C:\Users\maxim\Desktop\Database\WebApplication1\obj\Release\WebApplication1.pdb
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\WebApplication1.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\WebApplication1.pdb
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\csc.exe
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\csi.exe
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Azure.Core.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Azure.Identity.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.Data.SqlClient.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.Identity.Client.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Buffers.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Data.SqlClient.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Memory.Data.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Memory.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Numerics.Vectors.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Security.AccessControl.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Security.Permissions.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Security.Principal.Windows.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Text.Encodings.Web.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Text.Json.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.ValueTuple.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\WebGrease.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Azure.Core.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Azure.Identity.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.Data.SqlClient.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.Identity.Client.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Buffers.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Data.SqlClient.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Memory.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Memory.Data.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Numerics.Vectors.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Security.AccessControl.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Security.Cryptography.ProtectedData.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Security.Permissions.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Security.Principal.Windows.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Text.Encodings.Web.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Text.Json.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.ValueTuple.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\obj\Release\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\maxim\Desktop\Final Database\WebApplication1\obj\Release\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Desktop\Final Database\WebApplication1\obj\Release\WebApplication1.csproj.CopyComplete
+C:\Users\maxim\Desktop\Final Database\WebApplication1\obj\Release\WebApplication1.dll
+C:\Users\maxim\Desktop\Final Database\WebApplication1\obj\Release\WebApplication1.pdb

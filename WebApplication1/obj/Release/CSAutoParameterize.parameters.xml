@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MuseumDBConnectionString-Web.config Connection String" description="MuseumDBConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=museum.database.windows.net;Initial Catalog=MuseumDB;Persist Security Info=True;User ID=JeremyL;Password=BabyThing1" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\maxim\\Desktop\\Final\ Database\\WebApplication1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MuseumDBConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
